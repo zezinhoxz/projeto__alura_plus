@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
+
+:root{
+    --branco-principal: #FFF;
+    --cinza-secundari0: #C0C0C0;
+    --botao-azul: #167DF7;
+    --cor-de-fundo: #00030C;
+
+    --fonte-principal: 'Inter', sans-serif;
+}
+
+*{
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    background-color: var(--cor-de-fundo);
+    color: var(--branco-principal);
+}
+
+.principal{
+    background-image: url("img/Background.png");
+}
