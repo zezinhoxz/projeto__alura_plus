@@ -72,7 +72,7 @@ body{
 .secundario{
     margin: 0 6em;
     text-align: start;
-    gap: 1em;
+    gap: 2em;
 }
 
 .secundario__imagem{
@@ -87,6 +87,7 @@ body{
 
 .descricao__texto{
     color: var(--cinza-secundari0);
+    font-size: 16px;
 }
 
 .secundario__botao{
