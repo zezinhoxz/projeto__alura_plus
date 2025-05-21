@@ -80,6 +80,7 @@ body{
 }
 
 .descricao__titulo{
+    color: var(--branco-principal);
     font-size: 48px;
     font-weight: 700;
     margin-bottom: 0.1em;
