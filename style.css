@@ -121,3 +121,24 @@ body{
     font-size: 32px;
     font-weight: 700;
 }
+
+.rodape{
+    margin: 0 5em;
+    text-align: center;
+}
+
+.rodape__lista{
+    display: flex;
+    margin: 2em 0;
+}
+
+.lista__link{
+    text-decoration: none;
+    list-style-type: none;
+    color: var(--branco-principal);
+    padding: 0.5em;
+}
+
+.rodape__texto{
+    padding: 0.5em;
+}
