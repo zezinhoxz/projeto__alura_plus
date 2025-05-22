@@ -99,3 +99,25 @@ body{
 .secundario__imagem_telas{
     justify-self: end;
 }
+
+.dispositivos{
+    text-align: center;
+}
+
+.dispositivos__titulo{
+    font-size: 48px;
+    font-weight: 700;
+}
+
+.dispositivos__lista{
+    display: flex;
+    list-style-type: none;
+    justify-content: center;
+    text-align: center;
+    margin: 2em 0;
+}
+
+.dispositivos__lista__texto{
+    font-size: 32px;
+    font-weight: 700;
+}
