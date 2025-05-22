@@ -131,7 +131,7 @@ body{
 .rodape__lista{
     display: flex;
     margin: 2em 0;
-    justify-items: center;
+    justify-content: center;
 }
 
 .lista__link{
