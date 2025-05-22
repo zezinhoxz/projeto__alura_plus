@@ -125,13 +125,12 @@ body{
 .rodape{
     margin: 0 5em;
     text-align: center;
-    justify-content: center;
+    justify-self: center;
 }
 
 .rodape__lista{
     display: flex;
     margin: 2em 0;
-    justify-content: center;
 }
 
 .lista__link{
