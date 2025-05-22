@@ -7,7 +7,7 @@
     --cor-de-fundo: #00030C;
     --hover-botao: #16B0F7;
     --hover-links: #9800b6;
-    --clicked-links: #b60092;
+    --visited-links: #b60092;
 
     --fonte-principal: 'Inter', sans-serif;
 }
@@ -159,10 +159,10 @@ body{
     transition: 0.2s;
 }
 
-.lista__link:hover{
-    color: var(--hover-links);
+.lista__link:visited{
+    color: var(--visited-links);
 }
 
-.lista__link:visited{
-    color: var(--clicked-links);
+.lista__link:hover{
+    color: var(--hover-links);
 }
