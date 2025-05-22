@@ -125,7 +125,8 @@ body{
 .rodape{
     margin: 0 5em;
     text-align: center;
-    margin: 10em 0 5em 0;
+    margin: 5em;
+    margin-top: 10em;
 }
 
 .rodape__lista{
