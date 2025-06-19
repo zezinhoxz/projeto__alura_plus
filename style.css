@@ -182,6 +182,10 @@ body{
         margin: 2em 2em;
     }
 
+    .container ~ .secundario{
+        height: 70vh;
+    }
+
     .secundario{
         margin: 0;
         text-align: center;
