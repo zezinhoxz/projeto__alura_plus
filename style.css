@@ -165,3 +165,10 @@ body{
 .lista__link:hover{
     color: var(--hover-links);
 }
+
+@media screen and (max-width: 786px){
+    .container{
+        display: block;
+        background-image: none;
+    }
+}
