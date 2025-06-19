@@ -170,7 +170,8 @@ body{
     .container{
         display: block;
         background-image: none;
-        margin: 0;
+        margin: 0 5vw;
+        align-content: center;
     }
 
     .container__imagem{
