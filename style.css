@@ -187,7 +187,8 @@ body{
     }
 
     .secundario{
-        margin: 0 10vw;
+        margin: 0;
+        padding: 0 10vw;
         text-align: center;
     }
 
